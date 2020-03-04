@@ -19,11 +19,9 @@ public class Test {
 //        testMyQueue();
 //        LoopQueue();
 
-        ArrayList<String> stringArray = new ArrayList<>();
-        stringArray.add("苹果");
-        stringArray.add("香蕉");
-        stringArray.add("番茄");
-        System.out.println(stringArray.toString());
+
+        System.out.println(8<<1);
+        System.out.println(8>>1);
 
     }
 

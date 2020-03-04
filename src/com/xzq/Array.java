@@ -14,7 +14,7 @@ public class Array<E> {
     }
 
     public Array() {
-        this(4);
+        this(10);
     }
 
     public Object[] getData() {
@@ -154,6 +154,15 @@ public class Array<E> {
             this.capacity = newCapacity;
             objects = Arrays.copyOf(objects, capacity);
         }
+    }
+
+    public void swap(int i, int j) {
+        if (i < 0 || i >= size || j < 0 || j >= size) {
+            throw new IllegalArgumentException("Set failed. Index is illegal.");
+        }
+        Object e = objects[i];
+        objects[i] = objects[j];
+        objects[j] = e;
     }
 
     @Override
