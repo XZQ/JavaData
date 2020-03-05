@@ -1,265 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a0de07-da84-47b4-8080-f95e189d467a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/heap/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeapTest.java" afterDir="false" />
+    <list default="true" id="a50adce1-421b-447c-83be-b223c63046da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/xzq/Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Array/com/xzq/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedListQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedListStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/FiledVisible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/MyUncanghtThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass$Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass$Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ProductConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadRightInterRupt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadRightInterRupt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadSleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadUncanght.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait$Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait$Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/threadpool/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/threadpool/ExectorsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedListQueue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedListQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/NoteMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/queue/LoopQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/queue/MyQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/recursion/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/stack/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/Bst$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/Bst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/BstMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/heap/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/heap/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeap.java" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WkkA39lb6058VX4T1qxZWaRZz0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="autoscrollToSource" value="true" />
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-  </component>
+  <component name="ProjectId" id="1YfOpdOdl777CzibXBx5pVFRLcD" />
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xzq/heap" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.xzq.heap" />
-      <recent name="com.thread" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xiazh\IdeaProjects\data_source\Array\src\com\xzq\heap" />
-      <recent name="C:\Users\xiazh\IdeaProjects\data_source\Array\src\com\xzq\node" />
-      <recent name="C:\Users\xiazh\IdeaProjects\data_source\Array\src\com\thread" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.MaxHeapTest">
-    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.threadpool.Count" />
-      <module name="Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thread.threadpool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FiledVisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.FiledVisible" />
-      <module name="Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxHeapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.heap.MaxHeapTest" />
-      <module name="Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xzq.heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OutOfOrderExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thread.OutOfOrderExecution" />
-      <module name="Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.Test" />
-      <module name="Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xzq.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <item itemvalue="Application.MaxHeapTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FiledVisible" />
-        <item itemvalue="Application.OutOfOrderExecution" />
-        <item itemvalue="Application.Count" />
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
-    </recent_temporary>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="69a0de07-da84-47b4-8080-f95e189d467a" name="Default Changelist" comment="" />
-      <created>1579700832957</created>
+      <changelist id="a50adce1-421b-447c-83be-b223c63046da" name="Default Changelist" comment="" />
+      <created>1583330365500</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579700832957</updated>
+      <updated>1583330365500</updated>
+      <workItem from="1583330368973" duration="170000" />
+      <workItem from="1583330558399" duration="189000" />
+      <workItem from="1583330774419" duration="1450000" />
+      <workItem from="1583342633350" duration="15000" />
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="181" key="#Notifications" timestamp="1580220061602">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1580220061602" />
-    <state x="765" y="227" width="510" height="653" key="#com.intellij.ide.util.MemberChooser" timestamp="1583309828491">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="765" y="227" width="510" height="653" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583309828491" />
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580801979626">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580801979626" />
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583308211285">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583308211285" />
-    <state width="1877" height="415" key="GridCell.Tab.0.bottom" timestamp="1583314331047">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="415" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583314331047" />
-    <state width="1877" height="415" key="GridCell.Tab.0.center" timestamp="1583314331047">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="415" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583314331047" />
-    <state width="1877" height="415" key="GridCell.Tab.0.left" timestamp="1583314331046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="415" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583314331046" />
-    <state width="1877" height="415" key="GridCell.Tab.0.right" timestamp="1583314331047">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="415" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583314331047" />
-    <state width="1877" height="78" key="GridCell.Tab.1.bottom" timestamp="1581176387073">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="78" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581176387073" />
-    <state width="1877" height="78" key="GridCell.Tab.1.center" timestamp="1581176387071">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="78" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581176387071" />
-    <state width="1877" height="78" key="GridCell.Tab.1.left" timestamp="1581176387070">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="78" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581176387070" />
-    <state width="1877" height="78" key="GridCell.Tab.1.right" timestamp="1581176387072">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="78" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581176387072" />
-    <state x="455" y="164" key="SettingsEditor" timestamp="1581340426496">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="455" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581340426496" />
-    <state x="681" y="261" width="567" height="524" key="StructurePopup" timestamp="1580657085300">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="681" y="261" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1580657085300" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1580391003250">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1580391003250" />
-    <state x="528" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581266794599">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="528" y="125" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581266794599" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1580824010291">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580824010291" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581338669554">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581338669554" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/LoopQueue.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/LoopQueue.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/thread/FiledVisible.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/thread/FiledVisible.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/thread/ThreadInterRupt2.java</url>
-          <line>20</line>
-          <properties class="com.thread.ThreadInterRupt2" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -3,6 +3,10 @@ package com.xzq;
 
 import java.util.Arrays;
 
+/**
+ * https://www.cnblogs.com/ysocean/category/1120217.html
+ * @param <E>
+ */
 public class Array<E> {
 
     private Object objects[];
