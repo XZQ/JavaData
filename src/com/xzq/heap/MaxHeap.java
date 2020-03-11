@@ -6,15 +6,15 @@ public class MaxHeap<E extends Comparable<E>> {
     private Array<E> data;
 
     public MaxHeap(int capacity) {
-        data = new Array<>(capacity);
+        data = new Array<E>(capacity);
     }
 
     public MaxHeap() {
-        data = new Array<>();
+        data = new Array<E>();
     }
 
     public MaxHeap(E[] arr) {
-        data = new Array<>(arr);
+        data = new Array<E>(arr);
         for (int i = parent(arr.length - 1); i >= 0; i--)
             siftDown(i);
     }

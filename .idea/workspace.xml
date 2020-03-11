@@ -1,78 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a50adce1-421b-447c-83be-b223c63046da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+    <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/BST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedListQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LinkedListStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/LoopQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/company/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/FiledVisible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/MyUncanghtThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass$Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass$Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OddEvenClass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/OutOfOrderExecution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ProductConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Storage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadInterRupt4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadRightInterRupt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadRightInterRupt2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadSleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadState2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/ThreadUncanght.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait$Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait$Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/Wait2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/threadpool/Count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/thread/threadpool/ExectorsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedListQueue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/LinkedListQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/node/NoteMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/queue/LoopQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/queue/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/recursion/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/stack/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/Bst$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/Bst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Array/com/xzq/tree/BstMain.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/heap/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/heap/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/heap/MaxHeap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,15 +16,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YfOpdOdl777CzibXBx5pVFRLcD" />
+  <component name="ProjectId" id="1Yys6SgAwDaHfKvf7s2kJusZwhG" />
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="D:/android-sdk-windows" />
+    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,34 +36,98 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a50adce1-421b-447c-83be-b223c63046da" name="Default Changelist" comment="" />
-      <created>1583330365500</created>
+      <changelist id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="" />
+      <created>1583925992164</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583330365500</updated>
-      <workItem from="1583330368973" duration="170000" />
-      <workItem from="1583330558399" duration="189000" />
-      <workItem from="1583330774419" duration="1450000" />
-      <workItem from="1583342633350" duration="15000" />
+      <updated>1583925992164</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

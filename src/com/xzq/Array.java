@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 /**
  * https://www.cnblogs.com/ysocean/category/1120217.html
+ *
+ * https://blog.csdn.net/snailmann/category_9288142.html
  * @param <E>
  */
 public class Array<E> {
