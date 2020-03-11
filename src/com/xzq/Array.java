@@ -7,6 +7,9 @@ import java.util.Arrays;
  * https://www.cnblogs.com/ysocean/category/1120217.html
  * https://www.cnblogs.com/ysocean/tag/Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/
  *
+ *   https://www.cnblogs.com/keeya/p/9218352.html
+ *
+ *
  * https://blog.csdn.net/snailmann/category_9288142.html
  * @param <E>
  */
