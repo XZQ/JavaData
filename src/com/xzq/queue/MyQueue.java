@@ -7,7 +7,7 @@ public class MyQueue<E> implements Queue<E> {
     private Array<E> array;
 
     public MyQueue() {
-        array = new Array<>();
+        array = new Array<E>();
     }
 
     @Override

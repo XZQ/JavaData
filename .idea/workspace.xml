@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/binary/BinaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/binary/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/binary/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hash/HashMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hash/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hash/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nodelist/NodeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/tree/Bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/tree/Bst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/tree/BstMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/tree/BstMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,14 +22,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yys6SgAwDaHfKvf7s2kJusZwhG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/android-sdk-windows" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -33,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BinaryTest">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -89,6 +114,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.binary.BinaryTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hash.HashMainTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -105,6 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTest" />
+        <item itemvalue="Application.HashMainTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,7 +188,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

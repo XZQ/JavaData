@@ -16,7 +16,7 @@ public class BstMain {
     }
 
     public static void remove() {
-        Bst<Integer> bst = new Bst<>();
+        Bst<Integer> bst = new Bst<Integer>();
         Random random = new Random();
         int n = 10;
 
@@ -25,7 +25,7 @@ public class BstMain {
             bst.add(random.nextInt(10000));
         }
 
-        ArrayList<Integer> nums = new ArrayList<>();
+        ArrayList<Integer> nums = new ArrayList<Integer>();
         while (!bst.isEmpty()) {
             nums.add(bst.removeMin());
             System.out.println(nums);

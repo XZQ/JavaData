@@ -71,7 +71,7 @@ public class Bst<E extends Comparable<E>> {
         if (root == null) {
             return;
         }
-        Queue<Node> q = new LinkedList<>();
+        Queue<Node> q = new LinkedList<Node>();
         q.add(root);
         while (!q.isEmpty()) {
             Node cur = q.remove();
@@ -154,7 +154,7 @@ public class Bst<E extends Comparable<E>> {
         if (root == null) {
             return root;
         }
-         if (e.compareTo(root.e) < 0) { //左子树
+        if (e.compareTo(root.e) < 0) { //左子树
             root.left = remove(root.left, e);
             return root;
         } else if (e.compareTo(root.e) > 0) {    //右子树
