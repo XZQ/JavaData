@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/binary/BinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binary/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/binary/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hash/HashMainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hash/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hash/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nodelist/NodeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedListQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/queue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/tree/Bst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/tree/Bst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/tree/BstMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/tree/BstMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -114,6 +105,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.ArrayTest1" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.binary.BinaryTest" />
       <module name="JavaData" />
@@ -125,6 +125,15 @@
     </configuration>
     <configuration name="HashMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hash.HashMainTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Test" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -150,6 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ArrayTest1" />
         <item itemvalue="Application.BinaryTest" />
         <item itemvalue="Application.HashMainTest" />
       </list>
@@ -199,5 +210,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/offer/Test.java</url>
+          <line>9</line>
+          <properties class="com.offer.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
