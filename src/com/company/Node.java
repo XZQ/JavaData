@@ -17,8 +17,16 @@ public class Node {
         this(null, null);
     }
 
+//    @Override
+//    public String toString() {
+//        return "e=" + e;
+//    }
+
     @Override
     public String toString() {
-        return "e=" + e;
+        return "Node{" +
+                "e=" + e +
+                ", next=" + next +
+                '}';
     }
 }

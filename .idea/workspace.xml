@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/singleton/Singleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/company/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/company/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/offer/ArrayTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/offer/ArrayTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -34,6 +40,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -49,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.BinaryTree">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -114,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.binary.BinaryTest" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.BinarySearch" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -123,8 +130,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hash.HashMainTest" />
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.BinaryTree" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.ListNode" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -159,10 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.ListNode" />
         <item itemvalue="Application.ArrayTest1" />
-        <item itemvalue="Application.BinaryTest" />
-        <item itemvalue="Application.HashMainTest" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583927152871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="树">
+      <created>1584360447270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584360447270</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,19 +234,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/offer/Test.java</url>
-          <line>9</line>
-          <properties class="com.offer.Test" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
