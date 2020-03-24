@@ -22,7 +22,7 @@ public class ListNode {
         node1.next = node2;
         node.next = node1;
         System.out.println(node.toString());
-        printListFromTailToHead(node);
+        recursion(node);
     }
 
     public static void printListFromTailToHead(Node listNode) {

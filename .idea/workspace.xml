@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/ListNodeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/company/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/company/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/offer/ArrayTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/offer/ArrayTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/ArrayTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTree">
+  <component name="RunManager" selected="Application.ListNodeTest">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -148,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.Test" />
+    <configuration name="ListNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.ListNodeTest" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -175,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.ListNodeTest" />
         <item itemvalue="Application.ListNode" />
+        <item itemvalue="Application.BinaryTree" />
         <item itemvalue="Application.ArrayTest1" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584360447270</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="树">
+      <created>1584616849176</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584616849176</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,5 +236,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/ListNode.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/ListNode.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
