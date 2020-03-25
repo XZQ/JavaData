@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/ListNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/initial/ConstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/initial/NotInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/initial/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/initial/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rxjava/MainRxJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/GreenApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/superexends/Plate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListNodeTest">
+  <component name="RunManager" selected="Application.MoveTest">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -107,44 +120,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.ArrayTest1" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.BinarySearch" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.BinaryTree" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.ListNode" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ListNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.ListNodeTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.superexends.Main" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRxJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rxjava.MainRxJava" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.movearrays.MoveTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.initial.NotInitialization" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -170,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveTest" />
+        <item itemvalue="Application.MainRxJava" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NotInitialization" />
         <item itemvalue="Application.ListNodeTest" />
-        <item itemvalue="Application.ListNode" />
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.ArrayTest1" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -236,21 +249,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/offer/ListNode.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/offer/ListNode.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
