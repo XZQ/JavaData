@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/initial/ConstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/initial/NotInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/initial/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/initial/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rxjava/A3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rxjava/MainRxJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/GreenApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/superexends/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/StackQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/movearrays/MoveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -120,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.ListNodeTest" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Fibonacci" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -156,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.initial.NotInitialization" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xzq.Test" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -183,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.MoveTest" />
         <item itemvalue="Application.MainRxJava" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NotInitialization" />
-        <item itemvalue="Application.ListNodeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584616849176</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="树">
+      <created>1585140952367</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585140952367</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,5 +244,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/Fibonacci.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

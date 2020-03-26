@@ -5,9 +5,6 @@ import com.xzq.queue.LoopQueue;
 import com.xzq.queue.MyQueue;
 import com.xzq.stack.ArrayStack;
 
-import java.util.ArrayList;
-import java.util.Deque;
-
 //https://www.cnblogs.com/ysocean/tag/Java%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/
 //https://www.cnblogs.com/xiaoxiongcanguan/category/1416652.html
 public class Test {
@@ -18,10 +15,16 @@ public class Test {
 //        testArray();
 //        testMyQueue();
 //        LoopQueue();
+//        System.out.println(8<<1);
+//        System.out.println(8>>1);
 
-
-        System.out.println(8<<1);
-        System.out.println(8>>1);
+        int i = 12343465;
+        int m = 0;
+        while (i != 0) {
+            m = i % 10 + i / 10;
+            System.out.print(m);
+            i = i / 10;
+        }
 
     }
 
