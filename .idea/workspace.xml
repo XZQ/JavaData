@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/offer/StackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/OnTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaData/META-INF/JavaData.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +25,21 @@
   </component>
   <component name="ProjectId" id="1Yys6SgAwDaHfKvf7s2kJusZwhG" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/android-sdk-windows" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -40,70 +47,23 @@
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.BinarySearch" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,25 +72,6 @@
       <option name="MAIN_CLASS_NAME" value="com.offer.Fibonacci" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.superexends.Main" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainRxJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rxjava.MainRxJava" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,7 +80,20 @@
       <option name="MAIN_CLASS_NAME" value="com.movearrays.MoveTest" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.OnTest" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,14 +102,28 @@
       <option name="MAIN_CLASS_NAME" value="com.xzq.Test" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.OnTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.MoveTest" />
-        <item itemvalue="Application.MainRxJava" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +157,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583925992164</updated>
+      <workItem from="1585417615995" duration="100000" />
+      <workItem from="1585417942809" duration="861000" />
+      <workItem from="1585510147871" duration="960000" />
+      <workItem from="1585511579552" duration="1201000" />
+      <workItem from="1585581805485" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="树">
       <created>1583926926457</created>
@@ -228,6 +201,9 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -245,6 +221,44 @@
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="311" key="GridCell.Tab.0.bottom" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.0.center" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.0.left" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.0.right" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.1.bottom" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.1.center" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.1.left" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1877" height="311" key="GridCell.Tab.1.right" timestamp="1585511541558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="311" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state x="666" y="235" key="MultipleFileMergeDialog" timestamp="1585327674714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585327674714" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -252,6 +266,16 @@
           <url>file://$PROJECT_DIR$/src/com/offer/Fibonacci.java</url>
           <line>49</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/BinarySearch.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/offer/BinarySearch.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

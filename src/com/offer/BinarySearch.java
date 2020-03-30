@@ -9,9 +9,9 @@ public class BinarySearch {
 
     //
     public static void main(String[] args) {
-        int[] arr = {1, 3, 5};
-        int key = 3;
-        System.out.println(recursionBinarySearch(arr, key));
+        int[] arr = {1, 3, 5, 7, 9, 11 };
+        int key = 7;
+        System.out.println(commonBinarySearch(arr, key));
     }
 
 
