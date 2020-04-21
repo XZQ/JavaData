@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/OnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/JavaException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaData/META-INF/JavaData.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +31,42 @@
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.JavaException">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.movearrays.MoveTest" />
+    <configuration name="JavaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.JavaException" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -112,22 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaException" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.OnTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.MoveTest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +163,9 @@
       <workItem from="1585510147871" duration="960000" />
       <workItem from="1585511579552" duration="1201000" />
       <workItem from="1585581805485" duration="437000" />
+      <workItem from="1587452916603" duration="8136000" />
+      <workItem from="1587471706319" duration="23000" />
+      <workItem from="1587471758513" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="树">
       <created>1583926926457</created>
@@ -209,55 +213,66 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="树" />
     <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.0.center" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.0.left" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587466383590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.0.right" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383590" />
+    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.1.bottom" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.1.center" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.1.left" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
-    <state width="1877" height="311" key="GridCell.Tab.1.right" timestamp="1585511541558">
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585511541558" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
     <state x="666" y="235" key="MultipleFileMergeDialog" timestamp="1585327674714">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585327674714" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1587460258641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587460258641" />
+    <state x="681" y="250" width="582" height="524" key="StructurePopup" timestamp="1587473165723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="250" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587473165723" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587471810111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587471810111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,6 +291,21 @@
           <url>file://$PROJECT_DIR$/src/com/offer/BinarySearch.java</url>
           <line>56</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/JavaException.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java</url>
+          <line>830</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java</url>
+          <line>829</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
