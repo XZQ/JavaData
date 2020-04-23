@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eed31f51-3187-4824-a42f-dc1acb7517a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/JavaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/classloader/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection/DynamicArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection/MyCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/util/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/util/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/util/JavaUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaData/com/xzq/Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xzq/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xzq/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +53,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.JavaException">
+  <component name="RunManager" selected="Application.JavaUtilTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -71,6 +76,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.util.B" />
+      <module name="JavaData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.BinarySearch" />
       <module name="JavaData" />
@@ -85,16 +98,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.Fibonacci" />
+    <configuration name="JavaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.JavaException" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.JavaException" />
+    <configuration name="JavaUtilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.util.JavaUtilTest" />
       <module name="JavaData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -111,14 +124,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xzq.Test" />
-      <module name="JavaData" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaUtilTest" />
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.JavaException" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.OnTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +170,11 @@
       <workItem from="1585581805485" duration="437000" />
       <workItem from="1587452916603" duration="8136000" />
       <workItem from="1587471706319" duration="23000" />
-      <workItem from="1587471758513" duration="1434000" />
+      <workItem from="1587471758513" duration="1775000" />
+      <workItem from="1587520592833" duration="14663000" />
+      <workItem from="1587560067292" duration="1763000" />
+      <workItem from="1587611367361" duration="2835000" />
+      <workItem from="1587634629838" duration="2427000" />
     </task>
     <task id="LOCAL-00001" summary="树">
       <created>1583926926457</created>
@@ -202,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585140952367</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="树">
+      <created>1587473440795</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587473440795</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,22 +241,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom" timestamp="1587466383591">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1587534733255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
-    <state width="1876" height="342" key="GridCell.Tab.0.center" timestamp="1587466383591">
+    <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587534733255" />
+    <state x="536" y="85" key="CommitChangelistDialog2" timestamp="1587473439681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
-    <state width="1876" height="342" key="GridCell.Tab.0.left" timestamp="1587466383590">
+    <state x="536" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587473439681" />
+    <state width="1876" height="143" key="GridCell.Tab.0.bottom" timestamp="1587625747333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383590" />
-    <state width="1876" height="342" key="GridCell.Tab.0.right" timestamp="1587466383591">
+    <state width="1876" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587625747333" />
+    <state width="1876" height="143" key="GridCell.Tab.0.center" timestamp="1587625747333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587466383591" />
+    <state width="1876" height="143" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587625747333" />
+    <state width="1876" height="143" key="GridCell.Tab.0.left" timestamp="1587625747333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="143" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587625747333" />
+    <state width="1876" height="143" key="GridCell.Tab.0.right" timestamp="1587625747333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="143" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587625747333" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1587466383591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -265,14 +289,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587460258641" />
-    <state x="681" y="250" width="582" height="524" key="StructurePopup" timestamp="1587473165723">
+    <state x="681" y="250" width="582" height="524" key="StructurePopup" timestamp="1587550402816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="250" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587473165723" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587471810111">
+    <state x="681" y="250" width="582" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587550402816" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587473477526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587471810111" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587473477526" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587613314398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587613314398" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,6 +334,11 @@
           <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java</url>
           <line>829</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collections.java</url>
+          <line>273</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
